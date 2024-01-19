@@ -29,3 +29,6 @@ Project Goal:
 Can a K-nearest neighbors (KNN) classification effectively diagnose heart disease using age, resting blood pressure, cholesterol levels, and maximum heart rate as predictors?
 
 This approach aims to provide a simplified yet accurate tool for early heart disease diagnosis, potentially aiding in prompt treatment and management.
+
+
+PROJECT LINK : https://github.com/MAmouzouvi/Heart-disease-predictor/blob/main/group10_project_report.ipynb
