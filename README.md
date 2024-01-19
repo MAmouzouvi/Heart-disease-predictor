@@ -1,4 +1,8 @@
-Project Report — Heart Disease Prediction
+
+
+PROJECT REPORT LINK : https://github.com/MAmouzouvi/Heart-disease-predictor/blob/main/group10_project_report.ipynb
+
+Heart Disease Prediction
 
 1.1 - Introduction
 
@@ -31,4 +35,4 @@ Can a K-nearest neighbors (KNN) classification effectively diagnose heart diseas
 This approach aims to provide a simplified yet accurate tool for early heart disease diagnosis, potentially aiding in prompt treatment and management.
 
 
-PROJECT LINK : https://github.com/MAmouzouvi/Heart-disease-predictor/blob/main/group10_project_report.ipynb
+
